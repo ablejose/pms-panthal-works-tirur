@@ -1,0 +1,30 @@
+{
+  "slug": "pms-panthal-works-tirur",
+  "name": "PMS Panthal Works",
+  "shortName": "PMS Panthal Works",
+  "descriptor": "Catering & Events",
+  "address": "Kallingal Rd, Payyanangadi, Tirur, Keralam 676101",
+  "area": "Payyanangadi",
+  "city": "Tirur",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676101",
+  "geo": {
+    "lat": 10.9172809,
+    "lng": 75.93071599999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=18371980055316402703",
+  "phone": "+91 95622 55533",
+  "whatsapp": "919562255533",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://pms-panthal-works-tirur.vercel.app"
+}
